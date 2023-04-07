@@ -3,9 +3,10 @@
 `Beginner`
 
 ### Description
+The flag is in this section
 <br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/117136072/230565763-9e3f7e78-e227-42bc-83d5-d7b092f165aa.png">
+  <img src="https://user-images.githubusercontent.com/117136072/230574253-ee330bf9-7c49-4128-93a8-985ac67d0687.png">
 </p>
 <br><br>
 
@@ -20,6 +21,14 @@ This challenge is change the flag sequence. Follow the sequence **pass** --> **p
 > **pass+6** is because the ***length of the current pass is 6*** 
 > <br>
 > **pass+10** is because the ***length of the current pass is 10*** 
+
+
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/117136072/230575082-690f4815-7f34-439b-a565-a424a8e3552b.png">
+</p>
+<br><br>
+
 
 <br>
 <p align="center">
