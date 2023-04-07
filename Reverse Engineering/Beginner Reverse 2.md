@@ -11,7 +11,7 @@
 
 
 ## Solution
-1. This challenge can use math to solve it.
+This challenge can use math to solve it.
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/117136072/230563952-6367d646-542e-44bb-9077-c52314815f71.png">
